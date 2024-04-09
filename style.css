@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavender;
+    color: #333;
+}
+
+header {
+    background-color: #d8bfd8;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 20px;
+    margin-right: 10px;
+    background-color: #ff69b4; 
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #d1478e; 
+    }
+
+#cardContainer {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #d8bfd8; 
+    padding: 10px;
+    text-align: center;
+}
